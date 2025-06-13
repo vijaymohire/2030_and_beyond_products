@@ -1,0 +1,1 @@
+Offers various roadmaps and paths in adopting and migrating legacy systems to human value driven systems. Allows  for full automation  and transfer of jobs to humanoids after considering the ethics and value generated   
