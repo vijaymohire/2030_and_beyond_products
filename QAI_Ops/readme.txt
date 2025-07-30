@@ -1,0 +1,1 @@
+QAI_Ops is a managed and purpose build operations suite that deploys various products, uses operational research and home grown products to meet client needs of migrating to QAI platform and do a end to end operations management
