@@ -1,0 +1,1 @@
+QAI_Patents related processes, steps, method that allows easier way to identify, classify and file for patents and, or copyrights. This is good for statrups with no corporate legal staff to manage the tasks
