@@ -1,0 +1,1 @@
+QAI for SysEngg are the tools, products, Tech Readiness Assessments( TRA), processess that allow for the design and approval of newer products or modernisation of products, especially for the Hi Tech Industry that needs better and more innovative performance improved responses from systems based on NASAs TRL levels and DoD standards  
